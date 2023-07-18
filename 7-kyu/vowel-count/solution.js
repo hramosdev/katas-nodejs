@@ -3,7 +3,7 @@ function getCount(str) {
   return stringArray.reduce((accumulator, currentValue) => {
     if (
       currentValue === "a" ||
-      currentValue === "o" ||
+      currentValue === "e" ||
       currentValue === "i" ||
       currentValue === "o" ||
       currentValue === "u"
